@@ -8,8 +8,8 @@ WFC initializes output bitmap in a completely unobserved state, where each pixel
 
 
 ## Source of Algorithms and Implementation
-<a href="https://github.com/mxgmn/WaveFunctionCollapse">Algorithm and Implementation Source</a> <br>
-<a href="https://discourse.processing.org/t/wave-collapse-function-algorithm-in-processing/12983">WFC Algorithm in Processing</a>
+* <a href="https://github.com/mxgmn/WaveFunctionCollapse">Algorithm and Implementation Source</a> <br>
+* <a href="https://discourse.processing.org/t/wave-collapse-function-algorithm-in-processing/12983">WFC Algorithm in Processing</a>
 
 ## Contribution
 
