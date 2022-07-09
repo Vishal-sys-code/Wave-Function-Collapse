@@ -32,4 +32,5 @@ How to Contribute?
 Pull request Merging (Privacy Policy):
  - We will merge the pull request when we will check if every-thing is fine or not.
  
- 
+ ## Deployment
+ * <a href="https://wave-function-collapse.vercel.app/"> Wave Function Collapse </a>
