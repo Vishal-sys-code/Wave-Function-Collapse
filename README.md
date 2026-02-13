@@ -34,9 +34,3 @@ Pull request Merging (Privacy Policy):
  
  ## Deployment
  * <a href="https://wave-function-collapse.vercel.app/"> Wave Function Collapse </a>
-
- ## Research Publication (Yet to be published)
- * <a href="https://vixra.org/abs/2207.0062"> Wave Function Collapse Visualisation </a>
- * Authors of Publication :
-      * <a href="https://github.com/ishanvipandey"> Ishanvi Pandey </a>
-      * <a href="https://github.com/Vishal-sys-code"> Vishal Pandey </a>
